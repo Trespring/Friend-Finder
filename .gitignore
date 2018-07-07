@@ -1,2 +1,15 @@
-node_modules
-.DS_Stores
+Friend Finder helps you find a frend based on a survey that determines compatibility. This Node-based app uses Express.JS.
+
+Install Node.js. visit https://nodejs.org/en/ and download
+Technologies used
+*node.js *Express.js
+
+This app is made possible with the following npm packages:
+
+express
+body-parser
+path
+
+In order to connect to the FriendFinder app server, type the following in the command line:
+
+node server.js
